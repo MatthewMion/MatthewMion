@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my name is Matt. 
+
+I am a Full Stack Web Developer with a lifelong passion of tinkering. After 10 years of being a Systems Integrator, I was fortunate enough to work with many designers, architects, and other talented craftsmen in the design and build industry. Now, I continue my endless quest for knowledge by developing intuitive web applications.
 
 <!--
 **MatthewMion/MatthewMion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
