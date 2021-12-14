@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://matthewmion.tech/](https://matthewmion.tech/)
 
-- 💬 Ask me about **react, redux, javscript, design, front End, back End,**
+- 💬 Ask me about **react, redux, javscript, design, front end, back end,**
 
 - 📫 How to reach me **mmiondev@gmail.com**
 
