@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **side projects/portfolio**
 
-- 🌱 I’m currently learning **Advanced Javascript, Advanced React, Material UI**
+- 🌱 I’m currently learning **advanced javascript, advanced react, material UI**
 
 - 👯 I’m looking to collaborate on **anything!**
 
 - 👨‍💻 All of my projects are available at [https://matthewmion.tech/](https://matthewmion.tech/)
 
-- 💬 Ask me about **React, Redux, Javscript, Design, Front End, Back End,**
+- 💬 Ask me about **react, redux, javscript, design, front End, back End,**
 
 - 📫 How to reach me **mmiondev@gmail.com**
 
